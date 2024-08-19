@@ -4,7 +4,7 @@
 
 ### <div align="center">Hi, I'm Nicolas Gabriel Pando, a passionate backend developer specializing in modern technologies 👨‍💻🚀</div>  
 
-- 🔭 Currently working on [AgroManager]([https://github.com/NicolasPando/administra-lotes](https://agromanager.vercel.app/))  
+- 🔭 Currently working on [AgroManager]((https://agromanager.vercel.app/))  
 
 - 🌱 Currently learning more about Docker, Kubernetes, and advanced backend architectures  
 
