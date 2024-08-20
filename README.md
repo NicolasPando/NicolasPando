@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact: I love solving complex problems and optimizing performance for scalable applications  
 
+- 🌍 Based in Lanús, Buenos Aires
+
 <br/>  
 
 ## My Skill Set  
@@ -51,10 +53,13 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/NicolasPando" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/nicolás-pando-3ba7932a5" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:nicolas.g.pando@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=email style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
